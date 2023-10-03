@@ -1,0 +1,9 @@
+../Core/Src/main.c:97:5:main	2
+../Core/Src/main.c:165:6:SystemClock_Config	3
+../Core/Src/main.c:210:6:HAL_TIM_IC_CaptureCallback	4
+../Core/Src/main.c:227:6:motor_task	11
+../Core/Src/main.c:357:6:autonomy_mode	4
+../Core/Src/main.c:460:6:led_blink	6
+../Core/Src/main.c:528:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:550:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:567:6:Error_Handler	1

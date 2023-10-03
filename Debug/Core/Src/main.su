@@ -1,0 +1,9 @@
+../Core/Src/main.c:97:5:main	16	static
+../Core/Src/main.c:165:6:SystemClock_Config	88	static
+../Core/Src/main.c:210:6:HAL_TIM_IC_CaptureCallback	24	static,ignoring_inline_asm
+../Core/Src/main.c:227:6:motor_task	24	static
+../Core/Src/main.c:357:6:autonomy_mode	32	static
+../Core/Src/main.c:460:6:led_blink	16	static
+../Core/Src/main.c:528:6:HAL_UART_RxCpltCallback	24	static,ignoring_inline_asm
+../Core/Src/main.c:550:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:567:6:Error_Handler	4	static,ignoring_inline_asm
